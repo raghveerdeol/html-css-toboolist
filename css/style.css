@@ -19,6 +19,20 @@ header{
 .bk-blu{
     background-color: #46acf0;
 }
+.bk-purple{
+    background-color: #9a70e3;
+}
+.bk-green{background-color: #65bfa9;
+}
+.bk-orange{
+    background-color: #f19d32;
+}
+.bk-pink{
+    background-color: #d762a0;
+}
+.bk-lightgreen{
+    background-color: #afc826;
+}
 /* inblock diplay  */
 .display-inblock{
     display: inline-block;
@@ -29,14 +43,14 @@ header{
 }
 .sezione-1{
     width: 70%;
-    margin: 3rem auto;
+    margin: 3rem auto 0;
     padding-left: 4rem;
     padding-top: 1rem;
     padding-bottom: 0.5rem;
 } 
 .sezione-2{
     width: 70%;
-    margin: 1rem auto;
+    margin: .2rem auto;
     padding-left: 4rem;
     padding-top: 2.5rem;
 }
@@ -51,4 +65,10 @@ header{
 button{
     padding: 0.5rem 1rem;
     border-radius: 15%;
+}
+ul{
+    padding: 0.5rem;
+}
+li{
+    padding: 0.5rem;
 }
