@@ -3,3 +3,19 @@
     padding: 0;
     box-sizing: border-box;
 }
+header{
+    padding-top: 1rem;
+    padding-left: 2rem;
+}
+.bk-white{
+    background-color: white;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.display-inblock{
+    display: inline-block;
+}
+.vert-align{
+    vertical-align: middle;
+}
