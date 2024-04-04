@@ -4,6 +4,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    background-color: #f6f8f9;
+}
 header{
     padding-top: 1rem;
     padding-left: 2rem;
@@ -20,3 +23,9 @@ h1{
 .vert-align{
     vertical-align: middle;
 }
+.sezione-1{
+    width: 60%;
+    margin: 3rem auto;
+    padding-left: 3rem;
+
+} 
