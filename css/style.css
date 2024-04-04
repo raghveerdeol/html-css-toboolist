@@ -76,3 +76,9 @@ span{
     width: 6rem;
     text-align: center;
 }
+.frecetta{
+    list-style-type: "\1F893";
+}
+.spunta{
+    list-style-type: "\2705";
+}
