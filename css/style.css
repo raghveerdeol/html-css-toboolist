@@ -28,10 +28,20 @@ header{
     vertical-align: middle;
 }
 .sezione-1{
-    width: 60%;
+    width: 70%;
     margin: 3rem auto;
-    padding-left: 3rem;
+    padding-left: 4rem;
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
 } 
 .font-white{
     color: white;
+}
+.font-grey{
+    color: grey;
+}
+/* button  */
+button{
+    padding: 0.5rem 1rem;
+    border-radius: 15%;
 }
