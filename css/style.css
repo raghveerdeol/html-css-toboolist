@@ -6,20 +6,24 @@
 }
 body{
     background-color: #f6f8f9;
+    font-family: Arial, Helvetica, sans-serif;
 }
 header{
     padding-top: 1rem;
     padding-left: 2rem;
 }
+/* background colour  */
 .bk-white{
     background-color: white;
 }
-h1{
-    font-family: Arial, Helvetica, sans-serif;
+.bk-blu{
+    background-color: #46acf0;
 }
+/* inblock diplay  */
 .display-inblock{
     display: inline-block;
 }
+/* alineamento verticale */
 .vert-align{
     vertical-align: middle;
 }
@@ -27,5 +31,7 @@ h1{
     width: 60%;
     margin: 3rem auto;
     padding-left: 3rem;
-
 } 
+.font-white{
+    color: white;
+}
