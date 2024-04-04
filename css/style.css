@@ -66,9 +66,13 @@ button{
     padding: 0.5rem 1rem;
     border-radius: 15%;
 }
-ul{
+ul,li{
     padding: 0.5rem;
 }
-li{
-    padding: 0.5rem;
+span{
+    border-radius: 40%;
+    padding: 0.4rem;
+    display: inline-block;
+    width: 6rem;
+    text-align: center;
 }
