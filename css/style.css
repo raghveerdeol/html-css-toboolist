@@ -49,10 +49,9 @@ header{
     padding-bottom: 0.5rem;
 } 
 .sezione-2{
-    width: 70%;
-    margin: .2rem auto;
-    padding-left: 4rem;
-    padding-top: 2.5rem;
+    width: 70%;  
+    margin: .2rem auto;  
+
 }
 /* font colour  */
 .font-white{
@@ -71,10 +70,14 @@ ul,li{
     list-style-type: none;
 }
 span{
-    border-radius: 40%;
+    border-radius: 10%;
     padding: 0.4rem;
     display: inline-block;
     width: 6rem;
     text-align: center;
     font-size: 0.7rem;
+}
+div{
+    padding-left: 4rem;
+    padding-top: 2.5rem;
 }
