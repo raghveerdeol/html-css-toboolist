@@ -34,6 +34,13 @@ header{
     padding-top: 1rem;
     padding-bottom: 0.5rem;
 } 
+.sezione-2{
+    width: 70%;
+    margin: 1rem auto;
+    padding-left: 4rem;
+    padding-top: 2.5rem;
+}
+/* font colour  */
 .font-white{
     color: white;
 }
