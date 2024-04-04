@@ -63,11 +63,12 @@ header{
 }
 /* button  */
 button{
-    padding: 0.5rem 1rem;
+    padding: 0.8rem 1rem;
     border-radius: 15%;
 }
 ul,li{
     padding: 0.5rem;
+    list-style-type: none;
 }
 span{
     border-radius: 40%;
@@ -75,13 +76,5 @@ span{
     display: inline-block;
     width: 6rem;
     text-align: center;
-}
-.frecetta{
-    list-style-type: "\1F893";
-}
-.spunta{
-    list-style-type: "\2705";
-}
-.croce{
-    list-style-type: "\274C";
+    font-size: 0.7rem;
 }
