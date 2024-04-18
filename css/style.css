@@ -63,14 +63,15 @@ header{
 /* button  */
 button{
     padding: 0.8rem 1rem;
-    border-radius: 15%;
+    border-radius: 9px;
+    border: 1px solid;
 }
 ul,li{
     padding: 0.5rem;
     list-style-type: none;
 }
 span{
-    border-radius: 10%;
+    border-radius: 1rem;
     padding: 0.4rem;
     display: inline-block;
     width: 6rem;
@@ -80,4 +81,20 @@ span{
 div{
     padding-left: 4rem;
     padding-top: 2.5rem;
+}
+.check::before{
+    content: "\2713";
+    color: green;
+    border: 1px solid;
+    border-radius: 50%;
+    padding: 4px;
+    font-size: 70%;
+}
+.cross::before{
+    content: "\292C";
+    color: red;
+    border: 1px solid;
+    border-radius: 50%;
+    padding: 4px;
+    font-size: 70%;
 }
